@@ -1,3 +1,14 @@
+/**
+ * Secret Key component 1: How many properties does each game have? (Answer as a number, not a word.)
+ *  6
+ * Secret Key component 2: What is the id of the HTML element that will display a list of all games?
+ *  all-btn
+ * Secret Key component 3: Which selector would select all elements with the stats-card class?
+ *  .stats-card
+ * Secret Key component 4: Which line number in index.js contains the start of a loop?
+ *  15
+ * secret key: 6games-container.stats-card15
+ */
 // Image credits: Kickstarter
 const games = ` [
   {
